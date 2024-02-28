@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karan Pal</h1>
 <h3 align="center">A Passionate Full Stack Developer </h3>
 
-<img align='right' alt='coding' width='400' src="https://www.google.com/imgres?q=animated%20coding%20gif&imgurl=https%3A%2F%2Fmir-s3-cdn-cf.behance.net%2Fproject_modules%2Fhd%2F06f21a161921919.63cd7887d0a70.gif&imgrefurl=https%3A%2F%2Fwww.behance.net%2Fgallery%2F161921919%2FPortrait-animated-gif&docid=t8xwAZxnLp10NM&tbnid=fxK5tONPokeGrM&vet=12ahUKEwiY4Ovigs6EAxVKXGwGHS0cAHIQM3oECGEQAA..i&w=1000&h=756&hcb=2&ved=2ahUKEwiY4Ovigs6EAxVKXGwGHS0cAHIQM3oECGEQAA"/>
+<img align='right' alt='coding' width='400' src="https://res.cloudinary.com/dnxuag27j/image/upload/v1709131298/assests/codingGif_hhednc.gif"/>
 
 - 🔭 I’m currently working on [Vedic Store](https://vedicstore.vercel.app/)
 
