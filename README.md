@@ -1,3 +1,5 @@
+![logo](https://github.com/developerkarann/developerkarann/blob/main/GithubBanner.png)
+
 <h1 align="center">Hi 👋, I'm Karan Pal</h1>
 <h3 align="center">A Passionate Full Stack Developer </h3>
 
